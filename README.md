@@ -3,6 +3,6 @@
 The competition can be found via the link:</br>
 https://tbrain.trendmicro.com.tw/Competitions/Details/9 </br>
 I was ranked 18th among 420 teams </br>
-What I have learned can be found in 心得簡報</br>
+What I had learned can be found in 心得簡報</br>
 Final solution is in Abstract Classification Tutorial/Abstract_classification_RoBERTa_fast_ai.ipynb </br>
 
